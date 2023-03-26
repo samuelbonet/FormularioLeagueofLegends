@@ -1,6 +1,24 @@
-# Formulario League of Legends
-Plantilla de formulario basado en el videojuego League of Legends
-# Licencia
-Esta plantilla es de código abierto y de uso gratuito.
+# Formulario de League of Legends
 
-[![foto-Muestra.jpg](https://i.postimg.cc/0N66B4R7/foto-Muestra.jpg)](https://postimg.cc/rdkFdQpp)
+Plantilla de un formulario basada en el videojuego de League of Legends
+
+## Construido con 🛠️
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+
+## Autores ✒️
+
+
+
+* **Samuel Bonet** - [samuelbonet](https://github.com/samuelbonet)
+ 
+
+## Licencia 📄
+
+Este proyecto es de uso libre y gratuito para cualquier usuario
+
+
+
+---
+⌨️ con ❤️ por [samuelbonet](https://github.com/samuelbonet) 😊
